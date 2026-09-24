@@ -1,4 +1,8 @@
 ---
+genres:
+  - roguelike
+  - action
+  - shooter
 directors_cut: https://rndd.github.io/js13k_2024/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
